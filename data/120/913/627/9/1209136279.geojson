@@ -48,7 +48,7 @@
         "wk:page":"South_Hill,_Anguilla"
     },
     "wof:country":"AI",
-    "wof:geomhash":"3442a01f1a9ca61ad2c1c6f470abcfec",
+    "wof:geomhash":"85f5832575080c2a37d1db9c0494693a",
     "wof:hierarchy":[
         {
             "dependency_id":85632283,
@@ -71,5 +71,5 @@
     -63.08779000000001,
     18.19201
 ],
-  "geometry": {"coordinates":[-63.08779000000001,18.19201],"type":"Point"}
+  "geometry": {"coordinates":[-63.08779,18.19201],"type":"Point"}
 }

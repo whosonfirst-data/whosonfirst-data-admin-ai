@@ -41,7 +41,7 @@
         "gn:id":3573421
     },
     "wof:country":"AI",
-    "wof:geomhash":"e1a713fdddb4f71c7709f8c3d49e7d39",
+    "wof:geomhash":"d8d22187a1e7426c600954da3a2f448d",
     "wof:hierarchy":[
         {
             "dependency_id":85632283,
@@ -64,5 +64,5 @@
     -62.99551999999999,
     18.24301
 ],
-  "geometry": {"coordinates":[-62.99551999999999,18.24301],"type":"Point"}
+  "geometry": {"coordinates":[-62.99552,18.24301],"type":"Point"}
 }
