@@ -1,0 +1,75 @@
+{
+  "id": 9895008508,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.015,18.2348,-63.015,18.2348",
+    "geom:latitude":18.2348,
+    "geom:longitude":-63.015,
+    "iso:country":"AI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3573487: name \"Chalvilles\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3573487"
+        },
+        {
+            "citation":"GeoNames populated place 3573487: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3573487"
+        },
+        {
+            "citation":"GeoNames populated place 3573487: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3573487"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667755 (Sandy Hill), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283,
+        85667755,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573487
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"ee44bc4fe258234f679ca36ae1d80c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":9895008508,
+            "region_id":85667755
+        }
+    ],
+    "wof:id":9895008508,
+    "wof:lastmodified":1795735206,
+    "wof:name":"Chalvilles",
+    "wof:parent_id":85667755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.015,
+    18.2348,
+    -63.015,
+    18.2348
+],
+  "geometry": {"coordinates":[-63.015,18.2348],"type":"Point"}
+}
