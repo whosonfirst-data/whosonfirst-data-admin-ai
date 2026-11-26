@@ -1,0 +1,75 @@
+{
+  "id": 9895008509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.10103,18.18483,-63.10103,18.18483",
+    "geom:latitude":18.18483,
+    "geom:longitude":-63.10103,
+    "iso:country":"AI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3573494: name \"Bungalows\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3573494"
+        },
+        {
+            "citation":"GeoNames populated place 3573494: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3573494"
+        },
+        {
+            "citation":"GeoNames populated place 3573494: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3573494"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667721 (Blowing Point), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283,
+        85667721,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573494
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"a2e9e156ba29b15f01e6db2d67628fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":9895008509,
+            "region_id":85667721
+        }
+    ],
+    "wof:id":9895008509,
+    "wof:lastmodified":1795735206,
+    "wof:name":"Bungalows",
+    "wof:parent_id":85667721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.10103,
+    18.18483,
+    -63.10103,
+    18.18483
+],
+  "geometry": {"coordinates":[-63.10103,18.18483],"type":"Point"}
+}
